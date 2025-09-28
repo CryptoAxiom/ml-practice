@@ -1,0 +1,58 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.conda/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# -------------------------
+# Jupyter Notebooks
+# -------------------------
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Notebook metadata
+*.nbconvert.ipynb
+
+# Jupyter runtime
+.jupyter/
+.local/share/jupyter/
+.jupyter_cache/
+
+# -------------------------
+# Editors / IDEs
+# -------------------------
+.vscode/
+.idea/
+*.swp
+*~
+
+# -------------------------
+# Data files (optional)
+# Uncomment if you don't want data files in git
+# *.csv
+# *.tsv
+# *.json
+# *.xls*
+# *.parquet
+# *.h5
+# *.pkl
+
+# -------------------------
+# OS-specific
+# -------------------------
+.DS_Store
+Thumbs.db
